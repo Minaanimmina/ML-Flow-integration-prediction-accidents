@@ -16,3 +16,6 @@ data/raw/*.csv
 
 # Environnement
 .env
+
+# VSCode
+.vscode/
