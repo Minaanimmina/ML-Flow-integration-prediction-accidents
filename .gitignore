@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow (ajouté maintenant pour être prêt)
+mlruns/
+mlartifacts/
+mlflow.db
+
+# Data (le CSV ne doit PAS être versionné s'il est lourd)
+data/raw/*.csv
+
+# Environnement
+.env
