@@ -10,6 +10,7 @@ __pycache__/
 mlruns/
 mlartifacts/
 mlflow.db
+tmp_artifacts/
 
 # Data (le CSV ne doit PAS être versionné s'il est lourd)
 data/raw/*.csv
